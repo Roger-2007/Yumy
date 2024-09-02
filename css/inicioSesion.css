@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logoYumy {
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    display: flex;
+}
+.botonesiniciosesion {
+    display: flex;
+    flex-direction: column;
+    gap: 20px 40px;
+}
+
+.botonesiniciosesion .google {
+    width: 230px;
+    background-color: #4285F4;
+    margin: 0 auto;
+    height: 30px;
+    display: flex;
+    /* gap: 40px 15px; */
+    align-items: center;
+    border-radius: 40px;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 17px;
+
+
+}
+
+.google img {
+    width: 25px;
+}
+
+
+.botonesiniciosesion .apple {
+    width: 230px;
+    background-color: #000000;
+    margin: 0 auto;
+    height: 30px;
+    display: flex;
+    /*     gap: 40px 20px;
+ */
+    align-items: center;
+    border-radius: 40px;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 17px;
+}
+
+.apple img {
+    width: 25px;
+
+}
+
+.botonesiniciosesion .facebook {
+    width: 230px;
+    background-color: #415792;
+    margin: 0 auto;
+    height: 30px;
+    display: flex;
+    /*     gap: 40px 15px;
+ */
+    align-items: center;
+    border-radius: 40px;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 17px;
+}
+
+.facebook img {
+    width: 25px;
+}
+
+
