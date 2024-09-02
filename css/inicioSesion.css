@@ -9,8 +9,8 @@ a {
 }
 
 .logoYumy {
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 350px;
     margin: 0 auto;
     margin-bottom: 10px;
     display: flex;
@@ -22,10 +22,10 @@ a {
 }
 
 .botonesiniciosesion .google {
-    width: 230px;
+    width: 280px;
     background-color: #4285F4;
     margin: 0 auto;
-    height: 30px;
+    height: 40px;
     display: flex;
     /* gap: 40px 15px; */
     align-items: center;
@@ -38,15 +38,15 @@ a {
 }
 
 .google img {
-    width: 25px;
+    width: 28px;
 }
 
 
 .botonesiniciosesion .apple {
-    width: 230px;
+    width: 280px;
     background-color: #000000;
     margin: 0 auto;
-    height: 30px;
+    height: 40px;
     display: flex;
     /*     gap: 40px 20px;
  */
@@ -58,15 +58,15 @@ a {
 }
 
 .apple img {
-    width: 25px;
+    width: 28px;
 
 }
 
 .botonesiniciosesion .facebook {
-    width: 230px;
+    width: 280px;
     background-color: #415792;
     margin: 0 auto;
-    height: 30px;
+    height: 40px;
     display: flex;
     /*     gap: 40px 15px;
  */
@@ -78,7 +78,7 @@ a {
 }
 
 .facebook img {
-    width: 25px;
+    width: 28px;
 }
 
 
