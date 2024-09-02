@@ -8,13 +8,35 @@ a {
     text-decoration: none;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0
+}
+
+header img {
+    margin: 10px 20px;
+}
+
+
+header img:hover {
+    cursor: pointer;
+}
+
+
+
+
 .logoYumy {
-    height: 350px;
-    width: 350px;
+    height: 330px;
+    width: 330px;
     margin: 0 auto;
     margin-bottom: 10px;
     display: flex;
 }
+
 .botonesiniciosesion {
     display: flex;
     flex-direction: column;
@@ -81,4 +103,18 @@ a {
     width: 28px;
 }
 
-
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+}
+footer img{
+    margin: 15px 35px;
+    
+}
+footer img:hover{
+    cursor:pointer;
+}
