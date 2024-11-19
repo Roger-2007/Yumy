@@ -26,7 +26,16 @@ header img:hover {
     cursor: pointer;
 }
 
-
+main{
+display:flex;
+    width:100%;
+}
+.ladoIzquierdo{
+    width:50%;
+}
+.ladoDerecho{
+    width:50%;
+}
 
 
 .logoYumy {
